@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.4.0</version>
+        <version>3.4.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
@@ -13,7 +13,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>SonarQubeDockerDemo</name>
     <properties>
-        <java.version>17</java.version>
+        <java.version>23</java.version>
 
         <jacoco.version>0.8.11</jacoco.version>
 
